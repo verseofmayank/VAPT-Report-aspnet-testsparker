@@ -33,8 +33,7 @@ Nmap · Nikto · Burp Suite · SQLMap · Gobuster · exiftool · curl
 OWASP Testing Guide + NIST 800-115
 
 ## Report
-[📄 Download Full Report](./VAPT_Report_Mayank_Kumar_Karn.pdf)
-
+[📄 Download Full Report (PDF)](../../raw/main/VAPT_Report_Mayank_Kumar_Karn.pdf)
 ## Topics
 `vapt` `penetration-testing` `owasp` `burpsuite` `sqlinjection` `xss` `lfi` `ethicalhacking`
 
